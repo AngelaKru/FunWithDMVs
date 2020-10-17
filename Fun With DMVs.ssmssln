@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F9D1FBDE-9AE6-42F5-A520-5A6DEA97A239}"
+	ProjectSection(SolutionItems) = preProject
+		Backup and Restore History.sql = Backup and Restore History.sql
+		DB File Size.sql = DB File Size.sql
+		Index and SP Usage.sql = Index and SP Usage.sql
+		Indexes Definition.sql = Indexes Definition.sql
+		Partitioning.sql = Partitioning.sql
+		Physical Data Location.sql = Physical Data Location.sql
+		Plan Demo.sql = Plan Demo.sql
+		Query Plans and Text.sql = Query Plans and Text.sql
+		Table and Index Size.sql = Table and Index Size.sql
+		Table and Index Stats.sql = Table and Index Stats.sql
+		Table Definition.sql = Table Definition.sql
+		What is Executing.sql = What is Executing.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB233179-45A9-4C57-A7EA-B48809BC9F43}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72A32E2A-1B07-4D31-854B-C110D62BBE22}
+	EndGlobalSection
+EndGlobal
