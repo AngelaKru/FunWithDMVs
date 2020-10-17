@@ -1,5 +1,5 @@
 # FunWithDMVs
-Slides and Demos for Fun With DMVs session from DataWeekender 07-Oct
+Slides and Demos for Fun With DMVs session from DataWeekender 17-Oct
 
 Demo databases used:
 
